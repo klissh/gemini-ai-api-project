@@ -1,7 +1,7 @@
 {
-  "name": "gemini-chatbot",
+  "name": "gemini-flash-api",
   "version": "1.0.0",
-  "description": "Gemini AI Chatbot with document and audio processing",
+  "description": "API for Gemini AI with text, document, and audio processing",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

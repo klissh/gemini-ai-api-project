@@ -26,7 +26,6 @@ app.use((req, res, next) => {
 });
 
 app.use(express.json());
-app.use(express.static(path.join(__dirname, 'public')));
 
 // Daftar MIME type yang diizinkan untuk dokumen
 const allowedDocMimeTypes = [
